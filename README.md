@@ -72,7 +72,7 @@ The AI-Powered Resume Analyzer acts as your **virtual HR assistant**, offering:
 
 ## 🖼 Sample Output 
 
-![Alt text](image-1.png)
+![Resume Analyzer UI](image.png)
 
 ---
 
